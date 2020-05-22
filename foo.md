@@ -3,4 +3,4 @@ layout: page
 title: foo
 ---
 
-fook you
+This is fun doing these tests. But man is it draining to read about 1000 words every 5 minutes.
